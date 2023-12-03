@@ -1,0 +1,19 @@
+{
+  "name": "kanban-app",
+  "version": "1.0.0",
+  "description": "A demo kanban application developed simultaneously in Angular, React and Vue.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hawkgs/kanban-app.git"
+  },
+  "author": "Georgi Serev (hawkgs)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hawkgs/kanban-app/issues"
+  },
+  "homepage": "https://github.com/hawkgs/kanban-app#readme"
+}

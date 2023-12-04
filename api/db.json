@@ -1,0 +1,108 @@
+{
+  "spaces": [
+    {
+      "id": "1",
+      "name": "Frontend"
+    },
+    {
+      "id": "2",
+      "name": "Backend"
+    }
+  ],
+  "space": [
+    {
+      "id": "1",
+      "name": "Frontend",
+      "boards": [
+        {
+          "id": "1",
+          "name": "Backlog",
+          "cards": [
+            {
+              "id": "1",
+              "title": "Fix that"
+            },
+            {
+              "id": "1",
+              "title": "Fix that"
+            },
+            {
+              "id": "1",
+              "title": "Fix that"
+            },
+            {
+              "id": "1",
+              "title": "Fix that"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "name": "To-dos",
+          "cards": [
+            {
+              "id": "1",
+              "title": "Fix that"
+            },
+            {
+              "id": "1",
+              "title": "Fix that"
+            },
+            {
+              "id": "1",
+              "title": "Fix that"
+            },
+            {
+              "id": "1",
+              "title": "Fix that"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "name": "In Progress",
+          "cards": [
+            {
+              "id": "1",
+              "title": "Fix that"
+            },
+            {
+              "id": "1",
+              "title": "Fix that"
+            },
+            {
+              "id": "1",
+              "title": "Fix that"
+            },
+            {
+              "id": "1",
+              "title": "Fix that"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "name": "Completed",
+          "cards": [
+            {
+              "id": "1",
+              "title": "Fix that"
+            },
+            {
+              "id": "1",
+              "title": "Fix that"
+            },
+            {
+              "id": "1",
+              "title": "Fix that"
+            },
+            {
+              "id": "1",
+              "title": "Fix that"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
